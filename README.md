@@ -6,3 +6,4 @@ I have set up a cron job that executes this script on fridays so that I will get
 
 It has been challenging to set up the cron job because I am using pipenv and am executing python through it, its where I have installed the necessary modules. In the end, I wrote a bash file (with some help from the internet of course) that works. It was much simpler than I thought.
 
+I have obfuscated sensitive information regarding email addresses, passwords and api keys.
